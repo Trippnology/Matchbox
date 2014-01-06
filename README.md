@@ -1,7 +1,7 @@
 #Matchbox v0.3.2
 Minimal page template useful for demos.
 
-This release uses the 3.x.x branch of Bootstrap by default (in both `master` and `develop` branches`). A similar setup using the Pure CSS library is in the `pure` branch.
+This release uses the 3.x.x branch of Bootstrap by default (in both `master` and `develop` branches). A similar setup using the Pure CSS library is in the `pure` branch.
 
 ##Includes
 + [Bootstrap CSS](http://getbootstrap.com) (remote)
